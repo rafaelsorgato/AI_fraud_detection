@@ -1,5 +1,8 @@
 # AI_fraud_detection
 
+Simple linear regression (Supervised Learning) to detect the probability of a transaction being a fraud, it is trained with fake data but with legitimate patterns.
+
+<br>
 <b>INSTALLATION:</b>
 <br>
 Open your terminal an run the 2 commands above:
