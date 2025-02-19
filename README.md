@@ -17,4 +17,4 @@ streamlit run app.py
 Open the app in http://localhost:8501
 <br>
 <br>
-<img src="https://github.com/rafaelsorgato/images/fraud_probability_prediction.jpg">
+<img src="https://github.com/rafaelsorgato/images_videos_of_my_projects/blob/main/images/fraud_probability_prediction.jpg">
